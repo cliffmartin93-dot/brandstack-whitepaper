@@ -6,17 +6,17 @@ nav_order: 1
 # Introduction
 
 Introduction
-Modern companies invest heavily in building their brands — visual identity, messaging, and detailed guidelines.
+Modern companies invest heavily in building their brands, visual identity, messaging, and detailed guidelines.
 
 But in reality, brand consistency breaks down after delivery.
 
-Not because the brand is wrong —
+Not because the brand is wrong 
 but because teams don’t know how to apply it.
 
 Brand assets live in scattered folders.
 Guidelines sit in PDFs no one opens.
 Typography, colors, and rules are buried in files.
-Templates exist — but are disconnected from daily work.
+Templates exist, but are disconnected from daily work.
 
 As teams grow, interpretation replaces clarity:
 	•	Different teams use the brand differently
@@ -33,7 +33,7 @@ Instead of treating brand guidelines as static documents, BrandStack turns them 
 
 ## What is BrandStack?
 
-BrandStack is a Brand Operating System designed to help companies apply their brand consistently across teams — not just document it.
+BrandStack is a Brand Operating System designed to help companies apply their brand consistently across teams, not just document it.
 
 Traditional brand management relies on disconnected resources:
 	•	PDFs
@@ -62,7 +62,7 @@ In essence, BrandStack turns brand guidelines into brand infrastructure — a sy
 
 BrandStack V1 focuses on solving one core problem:
 
-Helping teams actually use the brand — not just store it.
+Helping teams actually use the brand, not just store it.
 
 Instead of trying to solve everything at once, Version 1 is built around a few essential capabilities that turn brand guidelines into a usable, everyday system.
 
@@ -90,7 +90,7 @@ Inside BrandStack, teams can access:
 	•	Usage rules and “how to use” guidance
 	•	Real examples and applications
 
-This structure removes guesswork and helps teams understand not just what the brand is — but how to use it in real work.
+This structure removes guesswork and helps teams understand not just what the brand is, but how to use it in real work.
 
 ## Centralised Brand Assets Library 
 
@@ -134,7 +134,7 @@ This allows teams to:
 
 Traditional brand guidelines are static documents.
 
-They explain the brand — but don’t help teams apply it.
+They explain the brand, but don’t help teams apply it.
 
 BrandStack transforms guidelines into an interactive system that teams can actually use.
 
@@ -156,7 +156,7 @@ Most companies don’t have a branding problem.
 
 They have a brand usage problem.
 
-Brands are created carefully —
+Brands are created carefully 
 but break down in execution.
 
 Why?
@@ -175,15 +175,13 @@ This leads to:
 
 Over time, these small inconsistencies weaken brand clarity and impact.
 
-⸻
-
 BrandStack solves this by turning brand guidelines into a system teams actually use.
 
 With BrandStack, organizations gain:
 	•	Clarity → A simple, structured system anyone can understand
 	•	Consistency → Clear usage guidance, examples, and templates
 	•	Speed → Teams find what they need and execute immediately
-	•	Adoption → Teams don’t just read the brand — they use it
+	•	Adoption → Teams don’t just read the brand, they use it
 	•	Scalability → The brand stays consistent as teams and channels grow
 
 Instead of relying on static documents and scattered tools, BrandStack creates an operational layer for branding.
