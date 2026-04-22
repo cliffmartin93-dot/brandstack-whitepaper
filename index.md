@@ -20,8 +20,6 @@ They live in:
 
 As teams grow, brand consistency breaks — not from lack of design, but lack of implementation.
 
-⸻
-
 BrandStack turns brand guidelines into a live system teams actually use.
 
 Instead of static documentation, it gives teams:
@@ -32,8 +30,6 @@ Instead of static documentation, it gives teams:
 	•	Templates and tone tools (so teams can execute immediately)
 
 And with upcoming features like PDF import, existing brand guidelines can be transformed into something usable — not just readable.
-
-⸻
 
 BrandStack doesn’t replace brand guidelines.
 
